@@ -57,6 +57,7 @@ Ceci est un repo où je stock des ressources diverses et variées à propos de V
 
 ## Authentification
 - https://blog.sqreen.io/authentication-best-practices-vue/
+- https://scotch.io/tutorials/vue-authentication-and-route-handling-using-vue-router
 - https://docs.google.com/presentation/d/17e4U-XDMuVXGIj26OXndfAsXOpFjPjjb6QHhTJbBZnI/edit?usp=sharing
 
 ## Plugins préférés
